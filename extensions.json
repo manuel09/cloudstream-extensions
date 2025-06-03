@@ -5,7 +5,7 @@
     "version": "1.0",
     "description": "Estensione per VixSrc",
     "author": "manuel09",
-    "repo": "manuel09/VIx",
+    "repo": "manuel09/cloudstream-extensions",
     "className": "com.manuel09.VixSrcExtension",
     "apkUrl": "",
     "url": "https://raw.githubusercontent.com/manuel09/cloudstream-extensions/main/VixSrcExtension-1.0.cs3"
