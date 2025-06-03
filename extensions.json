@@ -8,7 +8,7 @@
     "repo": "manuel09/cloudstream-extensions",
     "className": "com.manuel09.VixSrcExtension",
     "apkUrl": "",
-    "url": "https://raw.githubusercontent.com/manuel09/cloudstream-extensions/main/VixSrcExtension-1.0.cs3"
+    "pluginLists": [
+        "https://raw.githubusercontent.com/manuel09/cloudstream-extensions/main/plugins.json"
   }
 ]
-
